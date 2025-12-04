@@ -20,6 +20,7 @@ Mon travail s’articule autour de :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Microsoft_Office_Excel_%282019%29.svg" width="50"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/SAS_logo_horiz.svg" width="80"/>
