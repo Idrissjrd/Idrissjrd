@@ -38,6 +38,15 @@ Mon travail s’articule autour de :
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="70"/>
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50"/>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-SPSS-0057A7?style=flat-square" alt="SPSS" />
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/-R%20Markdown-276DC3?style=flat-square&logo=rstudio&logoColor=white" alt="R Markdown" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
 
 
 ---
