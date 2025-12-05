@@ -16,13 +16,6 @@ Mon travail s’articule autour de :
 
 ### Langages
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Microsoft_Office_Excel_%282019%29.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/SAS_logo_horiz.svg" width="80"/>
 
 
 <p align="left">
@@ -40,13 +33,7 @@ Mon travail s’articule autour de :
 
 ### Outils
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
-<img src="https://img.shields.io/badge/RMarkdown-75AADB?style=for-the-badge&logoColor=white" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="70"/>
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50"/>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
