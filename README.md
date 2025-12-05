@@ -1,20 +1,14 @@
-## À propos
-
-Je suis Data Analyst spécialisé dans l’analyse de données, la modélisation statistique et le développement d’outils analytiques.  
-J’utilise principalement Python, R et SQL pour manipuler, analyser et visualiser les données, et je conçois également des interfaces et tableaux de bord pour faciliter la prise de décision.
-
-Mon travail s’articule autour de :
-- Préparation et exploration de données  
-- Modélisation et prédiction  
-- Automatisation de tâches analytiques  
-- Création d’interfaces (Streamlit)  
-- Visualisation de données et reporting
+## About me
+<p align="center">
+Idriss Jourdan
+  </p>
+Master's student in data science seeking for a 6 month internship starting february 23rd.
 
 ---
 
-## Languages & Outils
+## Languages & Tools
 
-### Langages
+### Languages
 
 
 
@@ -30,7 +24,7 @@ Mon travail s’articule autour de :
 
 </p>
 
-### Outils
+### Tools
 
 
 
@@ -50,4 +44,5 @@ Mon travail s’articule autour de :
 
 ## Contact
 
-Pour plus d’informations ou pour consulter mes projets, vous pouvez me retrouver sur GitHub, GitLab ou LinkedIn.
+Mail: idrissjourdan@icloudcom
+LinkedIn: https://www.linkedin.com/in/idriss-jourdan-966218389/
