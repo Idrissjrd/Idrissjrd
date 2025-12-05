@@ -43,6 +43,7 @@ Master's student in data science seeking for a 6 month internship starting febru
 ---
 
 ## Contact
-
+<p align="left">
 Mail: idrissjourdan@icloudcom
 LinkedIn: https://www.linkedin.com/in/idriss-jourdan-966218389/
+</p>
